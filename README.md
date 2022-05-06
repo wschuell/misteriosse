@@ -7,6 +7,7 @@ Code to reproduce results of the paper
 ### Init params
 
 This part of the script defines parameters and credentials used in all other scripts.
+You will need an instance of the database either in PostgreSQL (recommended), or in SQLite.
 
 ### Script 1: Devs
 
