@@ -1,7 +1,7 @@
 # MISTeRiOSSE
 ## Modelling Interconnected Social and Technical Risks in Open Source Software Ecosystems
 
-Code to reproduce results of the paper
+This repo contains code to reproduce results of the paper "Modelling Interconnected Social and Technical Risks in Open Source Software Ecosystems" by William Schueller and Johannes Wachs.
 
 
 ### Init params
